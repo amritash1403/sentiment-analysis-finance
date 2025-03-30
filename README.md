@@ -86,9 +86,6 @@ python sentiment_analysis.py
 ✔ Add real-time financial news scraping and analysis
 ✔ Deploy the model using Flask/FastAPI
 
-# Contributors
-
-Harsh Kumar – Machine Learning Engineer
 
 # License
 
